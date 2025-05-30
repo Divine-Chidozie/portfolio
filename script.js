@@ -24,3 +24,10 @@ AOS.init({
   duration: 1200, // Animation duration
   easing: "ease-in-out", // Animation easing function
 });
+
+const user = {
+  name: "Harley",
+  age: 20,
+  isVerified: true,
+};
+console.log(user);
