@@ -7,9 +7,9 @@
   --gray-bg: #e9ecef;
   --accent-blue: #0d6efd;
 }
+
 html {
   scroll-behavior: smooth;
-  /* font-size: 62.5%; */
 }
 body {
   background-image: linear-gradient(
